@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "konva": "^8.3.0"
+  }
+}
